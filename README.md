@@ -190,7 +190,3 @@ Installation Steps:
 6. Access the application at http://localhost:3000
 
 ---
-
-## 12. License
-
-Built for Hackathon 2026. Distributed under the MIT License.
